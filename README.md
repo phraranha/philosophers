@@ -71,6 +71,3 @@ Error messages include:
 - "Error: Invalid time to eat"
 - "Error: Invalid time to sleep"
 - "Error: Invalid number of meals"
-
-## License
-This project is open-source under the MIT License. You are free to use, modify, and distribute this code.
